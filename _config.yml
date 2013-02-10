@@ -10,13 +10,13 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : makujaho
-tagline: 
+tagline: gh-pages for makujaho
 author :
   name : makujaho
-  email : 
+  email : a@b.c
   github : makujaho
-  twitter : 
-  feedburner :
+  twitter : mkzer0 nv1t
+  feedburner : n
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
