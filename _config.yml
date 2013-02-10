@@ -1,3 +1,8 @@
+# Github defaults
+safe: true
+lsi: false
+pygments: true
+
 # This is the default format. 
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink: /:categories/:year/:month/:day/:title 
@@ -10,13 +15,13 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : makujaho
-tagline: gh-pages for makujaho
+tagline: "gh-pages for makujaho"
 author :
   name : makujaho
-  email : a@b.c
+  email : 
   github : makujaho
   twitter : mkzer0 nv1t
-  feedburner : n
+  feedburner : 
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
